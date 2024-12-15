@@ -1,0 +1,116 @@
+{
+    "app": {
+        "page": {
+            "header": {
+                "description": "Die Entwicklung von KI-Anwendungen der Spitzenklasse erfordert erstklassige Daten. Die Aifano Data Engine macht die Leistung Ihrer Unternehmensdaten nutzbar und sorgt für die sichere Entfaltung des KI-Potenzials für Ihr Unternehmen.",
+                "button": "Demo buchen"
+            },
+            "ai-enterprise-section": {
+                "header": "KI FÜR DAS UNTERNEHMEN",
+                "subheader": "Generative KI-Architektur",
+                "body": "Unabhängig davon, ob Sie Ihre eigenen Modelle entwickeln oder grundlegende Modelle auf Ihr Unternehmen anwenden, bleiben Daten der größte Engpass für KI.",
+                "link": "Sprechen Sie mit einem Experten für generative KI"
+            },
+            "meteor-card-section": {
+                "fine-tuning-and-rlhf": {
+                    "title": "Feineinstellung und RLHF",
+                    "description": "Passen Sie erstklassige Basismodelle an Ihr Unternehmen und Ihre spezifischen Daten an, um nachhaltige, erfolgreiche KI-Programme und Daten aus Ihrem Unternehmen aufzubauen."
+                },
+                "foundation-models": {
+                    "title": "Gründungsmodelle",
+                    "description": "Aifano arbeitet mit allen führenden KI-Modellen zusammen, von Open-Source bis Closed-Source, einschließlich OpenAI, Anthropic, Google PaLM, Cohere und anderen."
+                },
+                "enterprise-data": {
+                    "title": "Enterprise Data",
+                    "description": "Mit der Data Engine von Aifano können Sie Ihre Unternehmensdaten in diese Modelle integrieren und so die Grundlage für eine langfristige strategische Differenzierung schaffen."
+                }
+            }
+        },
+        "carax": {
+            "header": {
+                "description": "Transformieren Sie das Leasing mit CarAX - Ihr KI-gesteuerter Weg zu optimierten Abläufen, Effizienz und Gewinnmaximierung.",
+                "button": "Demo buchen"
+            },
+            "brand-section": {
+                "description": "Integriert für die aufstrebendsten Automobilmarken der Welt."
+            },
+            "product-overview-section": {
+                "title": "PRODUKTÜBERSICHT",
+                "description": "Revolutionieren Sie Ihr Leasinggeschäft mit unserer KI-gestützten SaaS-Plattform, die darauf ausgelegt ist, Prozesse zu rationalisieren, die Effizienz zu steigern und den Gewinn zu maximieren. Transformieren Sie Ihr Geschäft mit nahtloser Integration, prädiktiven Analysen und digitaler Innovation - alles auf Knopfdruck."
+            },
+            "empowerYour-section": {
+                "title": "Stärken Sie Ihren Betrieb",
+                "description": "Verschaffen Sie sich einen sofortigen Überblick über alle Aufgaben Ihrer Mitarbeiter, ergänzt durch eine automatische Priorisierung und Zuweisung, die eine effizientere Ressourcenzuweisung ermöglicht und sicherstellt, dass kritische Aufgaben zeitnah erledigt werden.",
+                "accessForecasts": "Greifen Sie direkt über das Dashboard auf Prognosen für künftige Aktivitäten zu. So können Sie vorausschauend planen und kommende Anforderungen antizipieren, damit Ihr Team immer einen Schritt voraus ist.",
+                "stayInformed": "Bleiben Sie mit Echtzeiteinblicken in die Prozessleistung auf dem Laufenden und erhalten Sie sofortige Warnmeldungen bei Verzögerungen oder Problemen. So können Sie potenzielle Probleme schnell erkennen und lösen, bevor sie sich auf Ihren Betrieb auswirken."
+            },
+            "fleet-management-section": {
+                "title": "Rationalisieren Sie Ihren Fuhrpark",
+                "navigateLeasingPortfolio": "Navigieren Sie mühelos durch Ihr gesamtes Leasingportfolio, mit detaillierten Ansichten für jedes geleaste Fahrzeug, einschließlich Optionen zum Filtern und Sortieren nach Leasingende, Fahrzeugtyp, Merkmalen und mehr, für eine optimale Verwaltung.",
+                "alertsForKeyDates": "Bleiben Sie mit automatischen Benachrichtigungen bei überfälligen oder bevorstehenden wichtigen Terminen auf dem Laufenden und stellen Sie sicher, dass jedes Fahrzeug effizient verwaltet wird und keine wichtigen Fristen verpasst werden.",
+                "adjustReturnDates": "Passen Sie Rückgabedaten schnell und einfach an, und nutzen Sie leistungsstarke Filterfunktionen, um Ihren Fuhrpark effektiver zu verwalten und für einen reibungslosen Betrieb und hohe Kundenzufriedenheit zu sorgen."
+            },
+            "return-process-section": {
+                "title": "Nahtloser Rückgabeprozess",
+                "fullVisibility": "Verschaffen Sie sich einen umfassenden Überblick über jeden Schritt des Fahrzeugrückgabeprozesses, von der Planung von Reinigungen und Inspektionen bis hin zu den letzten Vorbereitungen, um eine reibungslose und effiziente Rückgabe zu gewährleisten.",
+                "streamlineOperations": "Optimieren Sie Ihre Arbeitsabläufe durch die automatische Planung notwendiger Dienstleistungen über integrierte Systeme, die durch sofortige Warnmeldungen bei Verfahrensabweichungen ergänzt werden, damit Ihr Team auf Kurs bleibt.",
+                "detailedViewsAndWarnings": "Detaillierte Ansichten der einzelnen Fahrzeugstatus, die Zentralisierung von Dokumenten, Bildern und Kommentaren für ein umfassendes Verständnis jeder Rücksendung sowie automatische Warnungen zur Vermeidung von Verzögerungen ermöglichen einen tieferen Einblick."
+            },
+            "resale-features-section": {
+                "title": "Effiziente Wiederverkaufsmerkmale",
+                "timelyAdvisories": "Bleiben Sie mit rechtzeitigen Hinweisen auf Fahrzeugwiederverkaufsmöglichkeiten auf dem Laufenden und verpassen Sie nie den perfekten Zeitpunkt, um Ihre Rendite zu maximieren.",
+                "powerfulFiltering": "Nutzen Sie leistungsstarke Filteroptionen, um Ihren Fuhrpark nach Fahrzeugtypen und -merkmalen zu sortieren und so den Entscheidungsprozess für den Wiederverkauf zu vereinfachen.",
+                "predictiveInsights": "Nutzen Sie prädiktive Erkenntnisse, um Ihre Gebrauchtwagenverkaufsstrategie besser zu planen und sicherzustellen, dass Sie die richtigen Fahrzeuge zur richtigen Zeit zur Verfügung haben, um die Marktnachfrage zu erfüllen."
+            },
+            "chooseCarAX": {
+                "title": "Warum CarAX wählen?",
+                "description": "Unsere innovative SaaS-Plattform wurde speziell entwickelt, um jeden Aspekt des Leasingprozesses zu rationalisieren und zu optimieren - von Anfang bis Ende. Hier erfahren Sie, warum CarAX die erste Wahl für Leasingunternehmen ist.",
+                "tailoredSolutions": {
+                    "title": "Maßgeschneiderte Lösungen und KI-gestützte Effizienz",
+                    "seamlessAdaptation": "CarAX passt sich nahtlos an Ihre individuellen Bedürfnisse an und lässt sich mühelos in Ihre Arbeitsabläufe integrieren, so dass Sie Ihre Arbeitsabläufe ohne Unterbrechung verbessern können.",
+                    "aiEfficiency": "Nutzen Sie KI für unvergleichliche Effizienz und Geschwindigkeit, senken Sie Ihre Kosten und steigern Sie Ihren Gewinn mit CarAX, damit Sie immer einen Schritt voraus sind."
+                },
+                "comprehensiveTools": {
+                    "title": "Umfassende Management-Tools",
+                    "totalTransparency": "CarAX bietet alles von Dashboards bis hin zum Rückgabe- und Wiederverkaufsmanagement für vollständige Transparenz und Kontrolle über das Leasing.",
+                    "expectMore": "Erwarten Sie mehr mit CarAX - weniger Ausfallzeiten, zufriedenere Kunden und höhere Effizienz, die Ihre Geschäftsziele übertrifft."
+                },
+                "futureReady": {
+                    "title": "Zukunftssicherer und konkurrenzloser Support",
+                    "evolvesWithIndustry": "CarAX entwickelt sich mit der Branche weiter, innoviert und aktualisiert, um zukünftige Herausforderungen zu meistern - sichern Sie sich mit uns Ihren Vorsprung.",
+                    "dedicatedPartner": "Mit CarAX erhalten Sie nicht nur eine Lösung, sondern einen engagierten Partner, der sich für Ihren Erfolg einsetzt und Sie bei jedem Schritt fachkundig unterstützt."
+                }
+            },
+            "footer": {
+                "button": "Demo buchen"
+            }
+        }
+    },
+    "components": {
+        "customer-logos": {
+            "description": "Aifano arbeitet mit generativen KI-Firmen, Unternehmen und Startups zusammen."
+        },
+        "team-component": {
+            "role": {
+                "it process manager": "IT Prozess Manager",
+                "it project manager": "IT Projektleiter",
+                "advisory ai engineer": "Beratender AI-Ingenieur",
+                "senior data scientiest ai & analytics": "Senior Datenwissenschaftler AI & Analytik",
+                "data & ai, hybrid cloud": "Daten & KI, hybride Cloud",
+                "lead solution architect": "Leitender Systemarchitekt",
+                "lead developer": "Leitender Entwickler",
+                "senior full-stack developer": "Senior Full-Stack Entwickler",
+                "full-stack developer": "Full-Stack Entwickler",
+                "senior backend developer": "Senior Backend Entwickler"
+            },
+            "title": "UNSER TEAM",
+            "subtitle": "Treffen Sie unsere Experten",
+            "body": "Wir sind ein vielseitiges Team von KI-Experten, Designern, Entwicklern und Kreativen, die mit Leidenschaft die nächste Generation von Software-Erlebnissen entwickeln.",
+            "office": "Büro"
+        },
+        "footer-section": {
+            "copyright": "Urheberrecht © 2024 Aifano GmbH, Inc. Alle Rechte vorbehalten.",
+            "impressum": "Impressum"
+        }
+    }
+}

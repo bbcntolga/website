@@ -1,0 +1,116 @@
+{
+    "app": {
+        "page": {
+            "header": {
+                "description": "Crafting top-tier AI applications requires premium data. Aifano Data Engine harnesses the power of your enterprise data, while ensureing the secure unleashing of AI&apos;s potential for your business.",
+                "button": "Book a Demo"
+            },
+            "ai-enterprise-section": {
+                "header": "AI FOR THE ENTERPRISE",
+                "subheader": "Generative AI Architecture",
+                "body": "Whether you’re building your own models or applying foundation models to your business, data remains the biggest bottleneck to AI.",
+                "link": "Talk to a Generative AI Expert"
+            },
+            "meteor-card-section": {
+                "fine-tuning-and-rlhf": {
+                    "title": "Fine-Tuning and RLHF",
+                    "description": "Adapt best-in-class foundation models to your business and your specific data to build sustainable, successful AI programs and data from your enterprise."
+                },
+                "foundation-models": {
+                    "title": "Foundation Models",
+                    "description": "Aifano partners or integrates with all of the leading AI models, from open-source to closed-source, including OpenAI, Anthropic, Google PaLM, Cohere, and more."
+                },
+                "enterprise-data": {
+                    "title": "Enterprise Data",
+                    "description": "Aifano's Data Engine enables you to integrate your enterprise data into the fold of these models, providing the base for long-term strategic differentiation."
+                }
+            }
+        },
+        "carax": {
+            "header": {
+                "description": "Transform leasing with CarAX – your AI-driven path to streamlined operations, efficiency, and maximized profits.",
+                "button": "Book a Demo"
+            },
+            "brand-section": {
+                "description": "Integrated for the world&apos;s most ambitious automotive brands."
+            },
+            "product-overview-section": {
+                "title": "PRODUCT OVERVIEW",
+                "description": "Revolutionize your leasing operations with our AI-powered SaaS platform, designed to streamline processes, enhance efficiency, and maximize profits. Transform your business with seamless integration, predictive analytics, and digital innovation, all at your fingertips."
+            },
+            "empowerYour-section": {
+                "title": "Empower Your Operations",
+                "description": "Gain an immediate overview of all employee tasks, enhanced with automatic prioritization and assignment, enabling a more efficient allocation of resources and ensuring that critical tasks are addressed promptly.",
+                "accessForecasts": "Access forecasts of future activities directly from the dashboard, allowing for forward-thinking planning and the ability to anticipate upcoming demands, ensuring your team is always one step ahead.",
+                "stayInformed": "Stay informed with real-time insights into process performance and receive instant alerts for any delays or issues, enabling swift identification and resolution of potential problems before they impact your operations."
+            },
+            "fleet-management-section": {
+                "title": "Streamline Your Fleet",
+                "navigateLeasingPortfolio": "Effortlessly navigate through your entire leasing portfolio, with detailed views on every vehicle under lease, including options to filter and sort by lease end, vehicle type, features, and more, for optimal management.",
+                "alertsForKeyDates": "Stay ahead with automatic alerts for overdue or upcoming key dates, ensuring that every vehicle is managed efficiently and no important deadlines are missed.",
+                "adjustReturnDates": "Quickly adjust return dates with ease, and utilize powerful filtering capabilities to manage your fleet more effectively, keeping operations smooth and customer satisfaction high."
+            },
+            "return-process-section": {
+                "title": "Seamless Return Process",
+                "fullVisibility": "Achieve full visibility into every step of the vehicle return process, from scheduling cleanings and inspections to final preparations, ensuring a smooth and efficient return journey.",
+                "streamlineOperations": "Streamline your operations with automatic scheduling for necessary services through integrated systems, complemented by instant alerts for any procedural discrepancies, keeping your team on track.",
+                "detailedViewsAndWarnings": "Dive deeper with detailed views of individual vehicle statuses, centralizing documents, images, and comments for a comprehensive understanding of each return, and automated warnings to prevent any delays."
+            },
+            "resale-features-section": {
+                "title": "Efficient Resale Features",
+                "timelyAdvisories": "Stay informed with timely advisories for vehicle resale opportunities, ensuring you never miss the perfect timing to maximize your returns.",
+                "powerfulFiltering": "Utilize powerful filtering options to sort through your fleet based on vehicle types and characteristics, streamlining the decision-making process for resale.",
+                "predictiveInsights": "Leverage predictive insights to better plan your used car sales strategy, ensuring that you have the right vehicles available at the right time to meet market demand."
+            },
+            "chooseCarAX": {
+                "title": "Why Choose CarAX?",
+                "description": "Our innovative SaaS platform is specifically designed to streamline and optimize every aspect of the leasing process, from start to finish. Here's why CarAX stands out as the premier choice for leasing operations.",
+                "tailoredSolutions": {
+                    "title": "Tailored Solutions & AI-Powered Efficiency",
+                    "seamlessAdaptation": "CarAX seamlessly adapts to your unique needs, integrating effortlessly into your workflows for enhanced operations without disruption.",
+                    "aiEfficiency": "Harness AI for unparalleled efficiency and speed, reducing costs and boosting profits with CarAX, keeping you ahead in the game."
+                },
+                "comprehensiveTools": {
+                    "title": "Comprehensive Management Tools",
+                    "totalTransparency": "CarAX offers everything from dashboards to return and resale management for total transparency and control over leasing.",
+                    "expectMore": "Expect more with CarAX—less downtime, happier customers, and greater efficiency, exceeding your business goals."
+                },
+                "futureReady": {
+                    "title": "Future-Ready and Unrivaled Support",
+                    "evolvesWithIndustry": "CarAX evolves with the industry, innovating and updating to tackle future challenges—ensure your operations are ahead with us.",
+                    "dedicatedPartner": "With CarAX, you gain not just a solution, but a dedicated partner committed to your success, providing expert support every step of the way."
+                }
+            },
+            "footer": {
+                "button": "Book a Demo"
+            }
+        }
+    },
+    "components": {
+        "customer-logos": {
+            "description": "Aifano works with Generative AI Companies, Enterprises & Startups."
+        },
+        "team-component": {
+            "role": {
+                "it process manager": "IT Process Manager",
+                "it project manager": "IT Project Manager",
+                "advisory ai engineer": "Advisory AI Engineer",
+                "senior data scientiest ai & analytics": "Senior Data Scientist AI & Analytics",
+                "data & ai, hybrid cloud": "Data & AI, Hybrid Cloud",
+                "lead solution architect": "Lead Solution Architect",
+                "lead developer": "Lead Developer",
+                "senior full-stack developer": "Senior Full-Stack Developer",
+                "full-stack developer": "Full-Stack Developer",
+                "senior backend developer": "Senior Backend Developer"
+            },
+            "title": "OUR TEAM",
+            "subtitle": "Meet our Experts",
+            "body": "We're a diverse team of ai experts, designers, developers, and creators passionate about building the next generation of software experiences.",
+            "office": "Office"
+        },
+        "footer-section": {
+            "copyright": "Copyright © 2024 Aifano GmbH, Inc. All rights reserved.",
+            "impressum": "Impressum"
+        }
+    }
+}
